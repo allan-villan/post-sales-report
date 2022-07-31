@@ -7,20 +7,25 @@ I chose to take advantage of Google's free cloud-based service Colab to get fami
 
 ### What's included:
 
-A Jupyter Notebook file 
-A Python script
-A shell script in the event an event streaming platform is present.
+- Jupyter Notebook file 
+- Python script
+- Shell script
+- data.csv
 
 ### Requirements: 
 
-There are no requirements to use Colab! Just use a Google account and get started.
+To use Google Colab, all you need is a Google account!
 
-# Data
+## Data
 
 The data is in csv format. Here's an example of what the data looks like below...
 
-1,I,VXIO456XLBB630221,Nissan,Altima,2003,2002-05-08,Initial sales from TechMotors
+>1,I,VXIO456XLBB630221,Nissan,Altima,2003,2002-05-08,Initial sales from TechMotors\n
+
+>2,I,INU45KIOOPA343980,Mercedes,C300,2015,2014-01-01,Sold from EuroMotors\n
+
+>3,A,VXIO456XLBB630221,,,,2014-07-02,Head on collision\n
 
 # Results
 
-After performing the script, it seems that the make and year that had the most accidents is a 2015 Mercedes
+The make and year that had the most accidents is a Mercedes-2015
