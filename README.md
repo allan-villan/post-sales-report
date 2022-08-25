@@ -1,7 +1,7 @@
 # post-sales-report
-This Python script utilizes PySpark to analyze accident report data.
+This Python script uses PySpark to analyze accident report data.
 
-### Considerations:
+## Considerations:
 
 I chose to take advantage of Google's free cloud-based service Colab to get familiar with PySpark in a Jupyter Notebook environment.
 
@@ -28,4 +28,7 @@ The data is in csv format. Here's an example of what the data looks like below..
 
 # Results
 
-The make and year that had the most accidents is a Mercedes-2015
+The make and year that had the most accidents is a 2015 Mercedes
+
+![image](https://user-images.githubusercontent.com/84660320/186621749-c0ec1212-f898-492c-8a7f-3e9327b94821.png)
+
